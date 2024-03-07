@@ -1,0 +1,11 @@
+INSERT INTO user_seq (name, age) VALUES ('Mahesh Kadambala', 21);
+INSERT INTO user_seq (name, age) VALUES ('Eswar Betha', 22);
+INSERT INTO user_seq (name, age) VALUES ('Jagan Mall', 25);
+INSERT INTO user_seq (name, age) VALUES ('Ruchitha', 22);
+INSERT INTO user_seq (name, age) VALUES ('Sirisha', 26);
+INSERT INTO user_seq (name, age) VALUES ('Hema Nookeswari', 21);
+INSERT INTO user_seq (name, age) VALUES ('tarun', 25);
+INSERT INTO user_seq (name, age) VALUES ('Lohith', 28);
+INSERT INTO user_seq (name, age) VALUES ('Deepthi', 22);
+INSERT INTO user_seq (name, age) VALUES ('Raju', 29);
+INSERT INTO user_seq (name, age) VALUES ('Santhosh', 30);
