@@ -23,11 +23,25 @@ QueryDSL is a framework that provides a type-safe way to construct SQL-like quer
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/querydsl-crud-demo.git
+git clone https://github.com/iammahesh123/spring-cloud-task-demo.git
 ```
+2. Navigate to the project directory:
+ ```bash
+  cd spring-security-csrf-demo
+ ```
+3. Build the project using Maven:
+ ```bash
+mvn clean package
+ ```
+4. Run the application:
+```bash
+mvn run
+ ```
+5. Access the application in your web browser: http://localhost:8080
+6. Perform CRUD operations on the database entities and observe the results.
 ## Configuration
 - application.properties: Contains database connection and other application-specific configurations.
-pom.xml: Includes QueryDSL and other required dependencies.
+- pom.xml: Includes QueryDSL and other required dependencies.
 ## Dependencies
 - Java 8 or higher
 - Spring Boot
