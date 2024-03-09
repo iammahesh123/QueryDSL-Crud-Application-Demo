@@ -23,7 +23,7 @@ QueryDSL is a framework that provides a type-safe way to construct SQL-like quer
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iammahesh123/spring-cloud-task-demo.git
+git clone https://github.com/iammahesh123/QueryDSL-Crud-Application-Demo.git
 ```
 2. Navigate to the project directory:
  ```bash
